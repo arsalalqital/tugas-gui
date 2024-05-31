@@ -1,0 +1,5 @@
+git memiliki manfaat terbiasanya setiap programmer untuk mengerjakan proyek dengan terdokumentasi,
+fleksibel dalam mengeksplorasi fitur
+mempercepat dalam pengerjaan proyek terlebih yang bersifat kolaborasi
+berikut adalah perintah perintah dasar git yaitu 
+git init,git commit,git config,git status,git add,git branch,git merge,git push,git bull
